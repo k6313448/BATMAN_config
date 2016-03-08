@@ -1,6 +1,9 @@
 # BATMAN_config
 4 files: 
-batman_ctrl, batman_cbi, batman_conf, batman_ini
+batman_ctrl (/usr/lib/lua/luci/controller)
+batman_cbi (/usr/lib/lua/luci/model/cbi)
+batman_conf (/etc/config)
+atman_ini (/etc/init.d)
 
 4 var: 
 ipaddr (default: 192.168.123.5)
